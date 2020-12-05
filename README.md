@@ -1,7 +1,7 @@
 # LEDSnapper
 A simple, but useful LED diagnostic PCB board for breadboard projects.
 
-![Front of board](images/font-lsb.JPG)
+![Front of board](images/front-lsb.JPG)
 ![Back of board](images/back-lsb.JPG)
 ![Breadboard](images/breadboard-shot.JPG)
 
