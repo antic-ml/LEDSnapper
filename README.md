@@ -7,7 +7,8 @@ About
 If you are forever plugging LEDs and resistors into breadboards to monitor
 signal output from a chip, then you may find this board useful. It plugs
 into your breadboard and there are 8 pins connected to 5 mm LEDs with
-wich you can use to monitor signals.
+wich you can use to monitor signals. I call it LEDSnapper, beacause it 
+snaps into your breadboard.
 
 How To Use
 ----------
@@ -19,7 +20,9 @@ Choose from 3 different boards
 ------------------------------
 
 There are 3 different versions of the board. Check the PCB layout images
-below to see which one you require.
+below to see which one you require. Below each image you will find the
+name of the associated Gerber files for that board.
+
 
 
 
