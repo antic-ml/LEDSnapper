@@ -29,6 +29,17 @@ There are 3 different versions of the board. Check the PCB layout images
 below to see which one you require. Below each image you will find the
 name of the associated Gerber files for that board.
 
+![5V8-LSB-PCB](images/5V8-LSB-PCB.png)
+Gerber: 5V8-LSB-PCB
+
+![5V8-LSB-PCB-1.1](images/5V8-LSB-PCB-1.1.png)
+Gerber: 5V8-LSB-PCB-1.1
+
+![5V8-MSB-PCB](images/5V8-MSB-PCB.png)
+Gerber: 5V8-MSB-PCB
+
+
+
 
 
 
