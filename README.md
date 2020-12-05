@@ -1,20 +1,16 @@
 # LEDSnapper
 A simple, but useful LED diagnostic PCB board for breadboard projects.
 
-![Front of board](images/front-lsb.JPG)
-![Back of board](images/back-lsb.JPG)
-![Breadboard](images/breadboard-shot.JPG)
-
-
-
-About
------
-
 If you are forever plugging LEDs and resistors into breadboards to monitor
 signal output from a chip, then you may find this board useful. It plugs
 into your breadboard and there are 8 pins connected to 5 mm LEDs with
 wich you can use to monitor signals. I call it LEDSnapper, beacause it 
 snaps into your breadboard.
+
+![Front of board](images/front-lsb.JPG)
+![Back of board](images/back-lsb.JPG)
+![Breadboard](images/breadboard-shot.JPG)
+
 
 How To Use
 ----------
