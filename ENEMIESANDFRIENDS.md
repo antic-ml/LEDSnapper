@@ -6,12 +6,12 @@ developer I am recording them here on this list.
 
 | Enemies of Super Mario                   | Friends of Super Mario                   |
 | ---------------------------------------- | ---------------------------------------- |
-| Arduino.cc  - censorship                 | Dronebot Workshop                        |
-| Instructables.com  - censorship          | Pugwash (Dronebot forum member)         |
-| AllAboutCircuits.com  - censorship       | Hackaday.io                              |
-| r/Electronics Reddit group - censorship  | GitHub.com                               |
-|                                          | Imgur.com                                |
-|                                          | Google.com                               |
+| Arduino.cc  - censorship                 | Dronebot Workshop - permitted promotion                       |
+| Instructables.com  - censorship          | Pugwash (Dronebot forum member) - said nice things        |
+| AllAboutCircuits.com  - censorship       | Hackaday.io - permitted promotion                             |
+| r/Electronics Reddit group - censorship  | GitHub.com  - hosting                            |
+|                                          | Imgur.com   - permitted promotion                             |
+|                                          | Google.com  - hosting                             |
 
 
 The list is partly tongue-in-cheek. Its inspiration comes from the movie starring
