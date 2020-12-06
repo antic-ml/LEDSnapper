@@ -1,22 +1,30 @@
 # LEDSnapper
-A simple, but useful LED diagnostic PCB board for breadboard projects.
+LED Snapper is a simple, compact diagnostic board for breadboard projects. It
+is particularly suitable for Arduino makers, because it is a 5 volt
+module. It is cheap to make too: you can make 10 of them for around a $1.50 per board.
 
 If you are forever plugging LEDs and resistors into breadboards to monitor
-signal output from a chip, then you may find this board useful. It plugs
+signal output from your Arduino, then you may find this board useful. It plugs
 into your breadboard and there are 8 pins connected to 5 mm LEDs with
 wich you can use to monitor signals. I call it LEDSnapper, beacause it 
 snaps into your breadboard.
 
 ![Front of board](images/front-lsb.JPG)
-![Back of board](images/back-lsb.JPG)
-![Breadboard](images/breadboard-shot.JPG)
+Top of the board.
 
+![Back of board](images/back-lsb.JPG)
+Back of the board.
+
+![Breadboard](images/breadboard-shot.JPG)
+The board being used to test Arduino pin output.
+
+The module is also suitable for 5 volt circuits other than the Arduino.
 
 How To Use
 ----------
 
 Connect up the GND pin and then connect one, or more of the 8 pins
-connected to LEDs to +5 Volts.
+connected to LEDs to +5 Volts, or the Arduino pins.
 
 Choose from 3 different boards
 ------------------------------
