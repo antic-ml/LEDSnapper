@@ -13,7 +13,7 @@ snaps into your breadboard.
 Top of the board.
 
 ![Back of board](images/back-lsb.JPG)
-Back of the board.
+Back of the board. 5V8 means it is a 5 volt module with 8 pins.
 
 ![Breadboard](images/breadboard-shot.JPG)
 The board being used to test Arduino pin output.
