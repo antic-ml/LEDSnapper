@@ -11,7 +11,8 @@ snaps into your breadboard.
 
 ![Breadboard](images/breadboard-shot.JPG)
 
-Photo of the board being used to test Arduino pin output.
+Photo of the board being used to test Arduino pin output. As you can see, the
+board is small. It measures only 5 cm x 2.5 cm.
 
 ![Front of board](images/front-lsb.JPG)
 
