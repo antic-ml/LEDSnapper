@@ -1,6 +1,6 @@
 # LEDSnapper
-LED Snapper is a simple, compact diagnostic board for breadboard projects. It
-is particularly suitable for Arduino makers, because it is a 5 volt
+LED Snapper is a simple, compact diagnostic board for Arduino breadboard projects. It
+is suitable for Arduino makers, because it is a 5 volt
 module. It is cheap to make too: you can make 10 of them for around a $1.50 per board.
 
 If you are forever plugging LEDs and resistors into breadboards to monitor
