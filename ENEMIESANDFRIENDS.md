@@ -15,6 +15,7 @@ or individual is on the enemies list, that is between me and them.
 |                                          | Google.com                               |
 
 
-
+The list is partly tongue-in-cheek. Internet censorship annoys me. The people on the
+right don't practice it.
 
 
