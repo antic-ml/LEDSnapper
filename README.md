@@ -20,6 +20,15 @@ The board being used to test Arduino pin output.
 
 The module is also suitable for 5 volt circuits other than the Arduino.
 
+Component List
+---------------
+- 8 x 5 mm LED in the color of your choice
+- 8 x 220 Ohm resistors
+- Male pin headers
+
+The board is marked up with the components, so you should have little difficulty
+soldering it.
+
 How To Use
 ----------
 
