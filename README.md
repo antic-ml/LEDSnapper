@@ -81,7 +81,8 @@ confidence in ordering components and a PCB for manufacturing. Plus, they get
 to build a simple, but useful piece of test equipment that they can use for
 their breadboard projects. My hope is that people will build LEDSnapper and
 then have the confidence to move on to more complex open source hardware and
-build that too.
+build that too. Maybe this project will provide someone with the impetus to
+kickstart an open source hardware project of their own.
 
 
 
