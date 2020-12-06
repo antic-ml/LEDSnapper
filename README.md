@@ -6,17 +6,21 @@ module. It is cheap to make too: you can make 10 of them for around a $1.50 per 
 If you are forever plugging LEDs and resistors into breadboards to monitor
 signal output from your Arduino, then you may find this board useful. It plugs
 into your breadboard and there are 8 pins connected to 5 mm LEDs 
-which you can use to monitor signals. I call it LEDSnapper, because it 
+which you can use to monitor signals. I call it **LEDSnapper**, because it 
 snaps into your breadboard.
 
 ![Front of board](images/front-lsb.JPG)
+
 Top of the board.
 
 ![Back of board](images/back-lsb.JPG)
+
 Back of the board. 5V8 means it is a 5 volt module with 8 pins.
 
 ![Breadboard](images/breadboard-shot.JPG)
+
 The board being used to test Arduino pin output.
+
 
 The module is also suitable for 5 volt circuits other than the Arduino.
 
@@ -46,15 +50,17 @@ name of the associated Gerber files for that board.
 ![5V8-LSB-PCB](images/5V8-LSB-PCB.png)
 
 Board #1: Pin numbers run left to right.
-Gerber Files: 5V8-LSB-PCB.zip
+**Gerber Files:** 5V8-LSB-PCB.zip
 
 ![5V8-LSB-PCB-1.1](images/5V8-LSB-PCB-1.1.png)
+
 Board #2: Pin numbers run left to right but this board occupies slightly less real estate on your breadboard.
-Gerber Files: 5V8-LSB-PCB-1.1.zip
+**Gerber Files:** 5V8-LSB-PCB-1.1.zip
 
 ![5V8-MSB-PCB](images/5V8-MSB-PCB.png)
+
 Board #3: Pin numbers run in reverse order from left to right. Useful for reading binary numbers.
-Gerber Files: 5V8-MSB-PCB.zip
+**Gerber Files:** 5V8-MSB-PCB.zip
 
 
 So simple, I could make one myself!
