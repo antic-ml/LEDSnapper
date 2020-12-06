@@ -9,6 +9,10 @@ into your breadboard and there are 8 pins connected to 5 mm LEDs
 which you can use to monitor signals. I call it **LEDSnapper**, because it 
 snaps into your breadboard.
 
+![Breadboard](images/breadboard-shot.JPG)
+
+Photo of the board being used to test Arduino pin output.
+
 ![Front of board](images/front-lsb.JPG)
 
 Top of the board.
@@ -16,10 +20,6 @@ Top of the board.
 ![Back of board](images/back-lsb.JPG)
 
 Back of the board. 5V8 means it is a 5 volt module with 8 pins.
-
-![Breadboard](images/breadboard-shot.JPG)
-
-The board being used to test Arduino pin output.
 
 
 The module is also suitable for 5 volt circuits other than the Arduino.
