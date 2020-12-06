@@ -38,7 +38,7 @@ Gerber File: 5V8-LSB-PCB-1.1.zip
 Gerber File: 5V8-MSB-PCB.zip
 
 
-So simmple, I could make one myself!
+So simple, I could make one myself!
 -----------------------------------
 
 If you are an experienced electronics hobbyist, or engineer then yes, of course
