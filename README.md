@@ -45,14 +45,15 @@ name of the associated Gerber files for that board.
 
 ![5V8-LSB-PCB](images/5V8-LSB-PCB.png)
 
+Board #1: Pin numbers run left to right.
 Gerber Files: 5V8-LSB-PCB.zip
 
 ![5V8-LSB-PCB-1.1](images/5V8-LSB-PCB-1.1.png)
-
+Board #2: Pin numbers run left to right but this board occupies slightly less real estate on your breadboard.
 Gerber Files: 5V8-LSB-PCB-1.1.zip
 
 ![5V8-MSB-PCB](images/5V8-MSB-PCB.png)
-
+Board #3: Pin numbers run in reverse order from left to right. Useful for reading binary numbers.
 Gerber Files: 5V8-MSB-PCB.zip
 
 
