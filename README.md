@@ -62,6 +62,15 @@ Board #2: Pin numbers run left to right but this board occupies slightly less re
 Board #3: Pin numbers run in reverse order from left to right. Useful for reading binary numbers.
 **Gerber Files:** 5V8-MSB-PCB.zip
 
+Getting the PCB manufactured
+----------------------------
+
+A number of companies exist that will allow you to upload Gerber files
+to their website and they will manufacture the boards for you. Some, like
+[JLCPCB](https://jlcpcb.com/) and [PCBWAY](https://pcbway.com/) will make the boards at a very low cost
+and give you ten of them. Expect to pay around $2 for ten boards + shipping. These
+companies are about the cheapest I have found, but feel free to
+shop around.
 
 So simple, I could make one myself!
 -----------------------------------
