@@ -38,8 +38,9 @@ How To Use
 ----------
 
 Connect up the GND pin and then connect one, or more of the 8 pins
-connected to LEDs to +5 Volts, or the Arduino pins. Don't supply more
-than 5 volts to the pins, or you may burn out the LEDs.
+connected to LEDs to +5 Volts, or the Arduino pins. The LEDs will light
+up when they get a **high signal** from an Arduino pin. _Don't supply more
+than 5 volts to the pins, or you may burn out the LEDs._
 
 Choose from 3 different boards
 ------------------------------
