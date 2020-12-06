@@ -38,6 +38,16 @@ Gerber File: 5V8-LSB-PCB-1.1.zip
 Gerber File: 5V8-MSB-PCB.zip
 
 
+So simmple, I could make one myself!
+-----------------------------------
+
+If you are an experienced electronics hobbyist, or engineer then yes, of course
+you could easily. This project is primarily designed for beginners to give them
+confidence in ordering components and a PCB for manufacturing. Plus, they get
+to build a simple, but useful piece of test equipment that they can use for
+their breadboard projects. My hope is that beginners will build LEDSnapper and
+then have the confidence to move on to more complex open source hardware and
+build that too.
 
 
 
