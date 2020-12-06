@@ -15,7 +15,7 @@ developer I am recording them here on this list.
 
 
 The list is partly tongue-in-cheek. Its inspiration comes from the movie starring
-Steve Martin called Dead Men Don't Wear Plaid, in which he has a list of friends
+Steve Martin called * *Dead Men Don't Wear Plaid* *, in which he has a list of friends
 and enemies that he methodically goes through.
 
 
