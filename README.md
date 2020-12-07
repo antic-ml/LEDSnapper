@@ -1,7 +1,7 @@
 # LEDSnapper
-LED Snapper is a simple, compact diagnostic board for Arduino breadboard projects. It
+LED Snapper is a simple, compact debugging tool for Arduino breadboard projects. It
 is suitable for Arduino makers, because it is a 5 volt
-module. It is cheap to make too: you can make 10 of them for around a $1.50 per board.
+module. 
 
 If you are forever plugging LEDs and resistors into breadboards to monitor
 signal output from your Arduino, then you may find this board useful. It plugs
@@ -9,10 +9,14 @@ into your breadboard and there are 8 pins connected to 5 mm LEDs
 which you can use to monitor signals. I call it **LEDSnapper**, because it 
 snaps into your breadboard.
 
+Don't buy it, **build it!** is my motto. It is cheap to make: you can make 10 of 
+them for around $1.50 per board. Less, if you shop around.
+
 ![Breadboard](images/breadboard-shot.JPG)
 
-Photo of the board being used to test Arduino pin output. As you can see, the
-board is small. It measures only 5 cm x 2.5 cm.
+Photo of the board being used to test Arduino pin output. The
+board is small. It measures only 5 cm x 2.5 cm and has header pins that
+plug into your breadboard.
 
 ![Front of board](images/front-lsb.JPG)
 
@@ -79,10 +83,12 @@ So simple, I could make one myself!
 -----------------------------------
 
 If you are an experienced electronics hobbyist, or engineer then yes, of course
-you could easily. This project is primarily designed for beginners and makers to give them
+you could easily. This project is primarily designed for beginners to give them
 confidence in ordering components and a PCB for manufacturing. Plus, they get
 to build a simple, but useful piece of test equipment that they can use for
-their breadboard projects. My hope is that people will build LEDSnapper and
+their breadboard projects. 
+
+My hope is that people will build LEDSnapper and
 then have the confidence to move on to more complex open source hardware and
 build that too. Maybe this project will provide someone with the impetus to
 kickstart an open source hardware project of their own.
