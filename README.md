@@ -35,8 +35,17 @@ Component List
 - 8 x 220 Ohm resistors
 - Male pin headers
 
+How To Build It
+---------------
 The board is marked up with the components, so you should have little difficulty
-soldering it.
+soldering them.
+
+You'll need a soldering iron to fix the components to the board. Begin by soldering the resistors 
+(220 Ohms each) first. Then solder the header pins. Next, insert LEDs of the colour of your choice 
+and solder each in turn. The positive anode (the long leg) of the LED goes in the top hole on the PCB and the 
+negative cathode (the short leg) goes in the bottom hole next to the resistor.
+
+That's it! It should take you about twenty minutes, or so to solder the components onto the board. 
 
 How To Use
 ----------
